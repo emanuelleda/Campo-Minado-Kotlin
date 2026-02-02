@@ -26,4 +26,4 @@ O projeto está dividido em dois pacotes principais:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/emanuelleda/Campo-Minado.git](https://github.com/emanuelleda/Campo-Minado.git)
+   git clone [https://github.com/emanuelleda/Campo-Minado-Kotlin.git](https://github.com/emanuelleda/Campo-Minado-Kotlin.git)
